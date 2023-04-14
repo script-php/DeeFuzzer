@@ -28,7 +28,7 @@ setup(
         'python-shout==0.2.7',
         'python-twitter==3.5',
         'mutagen==1.45.1',
-        'pyliblo3==0.12.0',
+        'pyliblo3>=0.12.0',
         'pycurl==7.44.1',
         'pyyaml==5.4.1',
         'mysqlclient==2.0.3',
